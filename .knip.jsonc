@@ -1,0 +1,6 @@
+{
+  "$schema": "https://unpkg.com/knip@2/schema.json",
+  "mocha": {
+    "entry": ["test/**/*.spec.js"]
+  }
+}
